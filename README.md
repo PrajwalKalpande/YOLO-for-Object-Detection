@@ -5,7 +5,7 @@ YOLO is a state-of-the-art, real-time object detection algorithm. In this projec
 
 How to run:
 
-1. Click on the colab notebook links(*provided in Report.pdf Section VII*)
+1. Click on "Open in Colab" in the colab notebook 
 2. Save a copy to your Google Colab account
 3. Download the [car.zip dataset](https://www.kaggle.com/sshikamaru/car-object-detection) and save it in your Google Drive (*only for Object_detection_using_pretrainedYolov5.ipynb*)
 4. Follow the instructions in the files and run them
