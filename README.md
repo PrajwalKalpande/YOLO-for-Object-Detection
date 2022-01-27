@@ -9,4 +9,4 @@ How to run:
 2. Save a copy to your Google Colab account
 3. Download the [car.zip dataset](https://www.kaggle.com/sshikamaru/car-object-detection) and save it in your Google Drive (*only for Object_detection_using_pretrainedYolov5.ipynb*)
 4. Follow the instructions in the files and run them
-Done!
+5. Done!
